@@ -88,7 +88,7 @@ const Sidebar = ({ role }) => {
 
   return (
     <Container>
-      <LogoContainer>HappyPerformer</LogoContainer>
+      <LogoContainer>Cookie</LogoContainer>
       <MenuItems>{getMenuItems()}</MenuItems>
       <SVGContainer src={Coder} />
     </Container>
